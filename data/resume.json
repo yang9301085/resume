@@ -2,20 +2,20 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
+        "name": "杨启仁",
         "description": "岂能尽如人意，但求无愧我心",
-        "school": "中山大学",
+        "school": "长春工业大学",
         "profession": "计算机科学与技术",
         "sex": "男",
         "education" : "本科",
         "workage": "2012届毕业",
-        "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "phone": "17519464115",
+        "email": "wrnac370@163.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/yang9301085",
             "icon": ""
         },
         {
@@ -41,32 +41,12 @@
     ],
     "Awards": [
         {
-            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "长春工业大学程序设计大赛三等奖"
         },
         {
-            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
-        },
-        {
-            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "201X百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
+            "name": "第12届蓝桥杯全国软件专业人才设计与创业大赛java本科B组吉林赛区三等奖"
         }
-    ],
-    "socialExperiences": [
-        {
-            "name": "加入XX移动开发工作室",
-            "name_link": "https://github.com/Jayin",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
-        },
-        {
-            "name": "组织X次校内开发者交流会",
-            "name_link": "https://github.com/Jayin",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
-        }
+    ]
     ],
     "InternExperiences": [
         {
